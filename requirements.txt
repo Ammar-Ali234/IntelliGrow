@@ -1,2 +1,3 @@
 inference-sdk
 streamlit
+joblib
